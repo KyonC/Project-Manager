@@ -1,2 +1,2 @@
 # Project-Manager
-The project manager for Ammic
+The Project Manager for Ammic
